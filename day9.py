@@ -75,8 +75,8 @@ while True:
           elif num==8:
               break
           elif num==9:
-              ac=prev(res)
-              print("previous element",ac)
+      
+              print("previous element")
           else:
               print("invalid entry")
               continue
